@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\DeskManager">
+      <UniqueIdentifier>{c61d5a4a-23f8-4272-8007-9834a3f276e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Command">
+      <UniqueIdentifier>{04f25dc4-0ebd-411f-abb2-32b15efe5179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DeskManager">
+      <UniqueIdentifier>{06c98e28-61ca-4efc-8b52-41f2b5b30001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Command">
+      <UniqueIdentifier>{d8f1e868-d810-4358-b1f0-4f83abd7ec63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataAccess">
+      <UniqueIdentifier>{2fa94ed5-b5cd-4025-b1e3-e912061315fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DataAccess">
+      <UniqueIdentifier>{909de254-7d92-42a3-8810-c1b5dadb6b99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UserManager">
+      <UniqueIdentifier>{663a33e6-43e6-425c-9c8b-90a9076d3e97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UserManager">
+      <UniqueIdentifier>{e3cd2899-ee22-4c5f-8c58-16da4369af2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{7bf3454e-11fc-4907-9d6c-9e6b9286231c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model\Enum">
+      <UniqueIdentifier>{b9301bd4-ff2e-4f4b-ab16-895876a01713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model\Users">
+      <UniqueIdentifier>{b01de0a9-2e7e-4703-b8a7-427906dae175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Authenticate">
+      <UniqueIdentifier>{b66c0fec-ba4f-487a-ade7-c817431f32ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Authenticate">
+      <UniqueIdentifier>{5aeadfbb-eded-4757-9ee3-84e71cc01069}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlexDeskManager.cpp">
+      <Filter>Source Files\DeskManager</Filter>
+    </ClCompile>
+    <ClCompile Include="PermanentDeskManager.cpp">
+      <Filter>Source Files\DeskManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BookDeskCommand.cpp">
+      <Filter>Source Files\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="CancelBookingCommand.cpp">
+      <Filter>Source Files\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="GetDeskAvailabilityCommand.cpp">
+      <Filter>Source Files\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="DeskDataAccess.cpp">
+      <Filter>Source Files\DataAccess</Filter>
+    </ClCompile>
+    <ClCompile Include="UserDataAccess.cpp">
+      <Filter>Source Files\DataAccess</Filter>
+    </ClCompile>
+    <ClCompile Include="UserOperationManager.cpp">
+      <Filter>Source Files\UserManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowBookingCommand.cpp">
+      <Filter>Source Files\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="Helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Login.cpp">
+      <Filter>Source Files\Authenticate</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UserType.h">
+      <Filter>Header Files\Model\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="DeskType.h">
+      <Filter>Header Files\Model\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="FlexDeskManager.h">
+      <Filter>Header Files\DeskManager</Filter>
+    </ClInclude>
+    <ClInclude Include="PermanentDeskManager.h">
+      <Filter>Header Files\DeskManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Header Files\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="DeskOperationManager.h">
+      <Filter>Header Files\DeskManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BookDeskCommand.h">
+      <Filter>Header Files\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="CancelBookingCommand.h">
+      <Filter>Header Files\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="GetDeskAvailabilityCommand.h">
+      <Filter>Header Files\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Header Files\Model\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Employee.h">
+      <Filter>Header Files\Model\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>Header Files\Model\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="DeskDataAccess.h">
+      <Filter>Header Files\DataAccess</Filter>
+    </ClInclude>
+    <ClInclude Include="UserDataAccess.h">
+      <Filter>Header Files\DataAccess</Filter>
+    </ClInclude>
+    <ClInclude Include="UserOperationManager.h">
+      <Filter>Header Files\UserManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowBookingCommand.h">
+      <Filter>Header Files\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Header Files\Authenticate</Filter>
+    </ClInclude>
+    <ClInclude Include="UserFactory.h">
+      <Filter>Header Files\Model\Users</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="DeskData.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UserData.json">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

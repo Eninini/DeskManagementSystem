@@ -1,0 +1,94 @@
+{
+  "locations": [
+    {
+      "location": "A",
+      "floors": [
+        {
+          "floor": 1,
+          "blocks": [
+            {
+              "block": "B1",
+              "desks": [
+                {
+                  "deskID": "A:1:B1:101",
+                  "deskNo": 101,
+                  "isPermanent": false
+                },
+                {
+                  "deskID": "A:1:B1:102",
+                  "deskNo": 102,
+                  "isPermanent": false
+                },
+                {
+                  "deskID": "A:1:B1:103",
+                  "deskNo": 103,
+                  "isPermanent": true
+                }
+              ]
+            },
+            {
+              "block": "B2",
+              "desks": [
+                {
+                  "deskID": "A:1:B2:102",
+                  "deskNo": 102,
+                  "isPermanent": true
+                },
+                {
+                  "deskID": "A:1:B2:105",
+                  "deskNo": 105,
+                  "isPermanent": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "floor": 2,
+          "blocks": [
+            {
+              "block": "B3",
+              "desks": [
+                {
+                  "deskID": "A:2:B3:201",
+                  "deskNo": 201,
+                  "isPermanent": false
+                },
+                {
+                  "deskID": "A:2:B3:202",
+                  "deskNo": 202,
+                  "isPermanent": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "B",
+      "floors": [
+        {
+          "floor": 1,
+          "blocks": [
+            {
+              "block": "C1",
+              "desks": [
+                {
+                  "deskID": "B:1:C1:301",
+                  "deskNo": 301,
+                  "isPermanent": true
+                },
+                {
+                  "deskID": "B:1:C1:302",
+                  "deskNo": 302,
+                  "isPermanent": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

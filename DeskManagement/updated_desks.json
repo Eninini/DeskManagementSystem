@@ -1,0 +1,40 @@
+{
+    "locations": [
+        {
+            "floors": [
+                {
+                    "blocks": [
+                        {
+                            "block": "B1",
+                            "desks": [
+                                {
+                                    "assignedTo": "EMP001",
+                                    "deskID": "A:1:B1:101",
+                                    "deskNo": 101,
+                                    "endDate": "2025-03-13",
+                                    "isPermanent": false,
+                                    "startDate": "2025-03-10"
+                                }
+                            ]
+                        },
+                        {
+                            "block": "B2",
+                            "desks": [
+                                {
+                                    "assignedTo": "EMP003",
+                                    "deskID": "A:1:B2:102",
+                                    "deskNo": 102,
+                                    "endDate": "2025-03-20",
+                                    "isPermanent": true,
+                                    "startDate": "2025-03-10"
+                                }
+                            ]
+                        }
+                    ],
+                    "floor": 1
+                }
+            ],
+            "location": "A"
+        }
+    ]
+}

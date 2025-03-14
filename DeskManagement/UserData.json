@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "bookings": [],
+            "employeeID": "101",
+            "name": "Alice Johnson",
+            "password": "password",
+            "role": "Employee",
+            "username": "alice"
+        },
+        {
+          "bookings": [],
+            "employeeID": "102",
+            "name": "Bob Smith",
+            "password": "password",
+            "role": "Manager",
+            "username": "bob"
+        },
+        {
+            "bookings": [],
+            "employeeID": "103",
+            "name": "Charlie Brown",
+            "password": "password",
+            "role": "Employee",
+            "username": "charlie"
+        },
+        {
+            "bookings": [],
+            "employeeID": "104",
+            "name": "David Wilson",
+            "password": "password",
+            "role": "Employee",
+            "username": "david"
+        },
+        {
+            "bookings": [],
+            "employeeID": "105",
+            "name": "Emma Davis",
+            "password": "password",
+            "role": "Manager",
+            "username": "emma"
+        }
+    ]
+}

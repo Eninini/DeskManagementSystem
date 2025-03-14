@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\BookDeskCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\BookDeskCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskDataAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\DeskDataAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\PermanentDeskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\PermanentDeskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\DeskData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskOperationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\DeskOperationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\FlexDeskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\FlexDeskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserDataAccess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserDataAccess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\ShowBookingCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\ShowBookingCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\CancelBookingCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\CancelBookingCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\GetDeskAvailabilityCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\GetDeskAvailabilityCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\DeskType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserOperationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserOperationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserOperationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserOperationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserDataAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserDataAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskDataAccess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\DeskDataAccess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\FlexDeskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\FlexDeskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\PermanentDeskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\PermanentDeskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\GetDeskAvailabilityCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\GetDeskAvailabilityCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\ShowBookingCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\ShowBookingCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\CancelBookingCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\CancelBookingCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\BookDeskCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\BookDeskCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Helper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Helper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\UserType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Command.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30C93C94-6D30-49A1-B1F3-D93000E83F2E}|DeskManagement\\DeskManagement.vcxproj|solutionrelative:DeskManagement\\Command.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 203,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeskDataAccess.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskDataAccess.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\DeskDataAccess.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskDataAccess.cpp",
+              "RelativeToolTip": "DeskManagement\\DeskDataAccess.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswG0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T06:55:28.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeskData.json",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskData.json",
+              "RelativeDocumentMoniker": "DeskManagement\\DeskData.json",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskData.json",
+              "RelativeToolTip": "DeskManagement\\DeskData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T07:13:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDeskCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\BookDeskCommand.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\BookDeskCommand.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\BookDeskCommand.cpp",
+              "RelativeToolTip": "DeskManagement\\BookDeskCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T14:51:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PermanentDeskManager.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\PermanentDeskManager.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\PermanentDeskManager.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\PermanentDeskManager.cpp",
+              "RelativeToolTip": "DeskManagement\\PermanentDeskManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T10:25:56.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Main.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\Main.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Main.cpp",
+              "RelativeToolTip": "DeskManagement\\Main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T06:33:20.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeskOperationManager.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskOperationManager.h",
+              "RelativeDocumentMoniker": "DeskManagement\\DeskOperationManager.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskOperationManager.h",
+              "RelativeToolTip": "DeskManagement\\DeskOperationManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T12:01:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlexDeskManager.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\FlexDeskManager.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\FlexDeskManager.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\FlexDeskManager.cpp",
+              "RelativeToolTip": "DeskManagement\\FlexDeskManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T10:28:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserData.json",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserData.json",
+              "RelativeDocumentMoniker": "DeskManagement\\UserData.json",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserData.json",
+              "RelativeToolTip": "DeskManagement\\UserData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T07:22:28.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDataAccess.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserDataAccess.h",
+              "RelativeDocumentMoniker": "DeskManagement\\UserDataAccess.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserDataAccess.h",
+              "RelativeToolTip": "DeskManagement\\UserDataAccess.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T17:54:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowBookingCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\ShowBookingCommand.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\ShowBookingCommand.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\ShowBookingCommand.cpp",
+              "RelativeToolTip": "DeskManagement\\ShowBookingCommand.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T18:54:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CancelBookingCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\CancelBookingCommand.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\CancelBookingCommand.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\CancelBookingCommand.cpp",
+              "RelativeToolTip": "DeskManagement\\CancelBookingCommand.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T15:04:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetDeskAvailabilityCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\GetDeskAvailabilityCommand.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\GetDeskAvailabilityCommand.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\GetDeskAvailabilityCommand.cpp",
+              "RelativeToolTip": "DeskManagement\\GetDeskAvailabilityCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T15:23:13.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeskType.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskType.h",
+              "RelativeDocumentMoniker": "DeskManagement\\DeskType.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskType.h",
+              "RelativeToolTip": "DeskManagement\\DeskType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T14:38:37.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Login.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\Login.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Login.cpp",
+              "RelativeToolTip": "DeskManagement\\Login.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T20:06:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserFactory.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserFactory.h",
+              "RelativeDocumentMoniker": "DeskManagement\\UserFactory.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserFactory.h",
+              "RelativeToolTip": "DeskManagement\\UserFactory.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T20:47:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserOperationManager.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserOperationManager.h",
+              "RelativeDocumentMoniker": "DeskManagement\\UserOperationManager.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserOperationManager.h",
+              "RelativeToolTip": "DeskManagement\\UserOperationManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T18:07:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserOperationManager.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserOperationManager.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\UserOperationManager.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserOperationManager.cpp",
+              "RelativeToolTip": "DeskManagement\\UserOperationManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T18:08:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDataAccess.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserDataAccess.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\UserDataAccess.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserDataAccess.cpp",
+              "RelativeToolTip": "DeskManagement\\UserDataAccess.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T17:54:53.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Login.h",
+              "RelativeDocumentMoniker": "DeskManagement\\Login.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Login.h",
+              "RelativeToolTip": "DeskManagement\\Login.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T20:06:23.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manager.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Manager.h",
+              "RelativeDocumentMoniker": "DeskManagement\\Manager.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Manager.h",
+              "RelativeToolTip": "DeskManagement\\Manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T03:57:29.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Employee.h",
+              "RelativeDocumentMoniker": "DeskManagement\\Employee.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Employee.h",
+              "RelativeToolTip": "DeskManagement\\Employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T03:57:16.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\User.h",
+              "RelativeDocumentMoniker": "DeskManagement\\User.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\User.h",
+              "RelativeToolTip": "DeskManagement\\User.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T03:50:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeskDataAccess.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskDataAccess.h",
+              "RelativeDocumentMoniker": "DeskManagement\\DeskDataAccess.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\DeskDataAccess.h",
+              "RelativeToolTip": "DeskManagement\\DeskDataAccess.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T06:55:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FlexDeskManager.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\FlexDeskManager.h",
+              "RelativeDocumentMoniker": "DeskManagement\\FlexDeskManager.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\FlexDeskManager.h",
+              "RelativeToolTip": "DeskManagement\\FlexDeskManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T10:27:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PermanentDeskManager.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\PermanentDeskManager.h",
+              "RelativeDocumentMoniker": "DeskManagement\\PermanentDeskManager.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\PermanentDeskManager.h",
+              "RelativeToolTip": "DeskManagement\\PermanentDeskManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T10:25:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetDeskAvailabilityCommand.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\GetDeskAvailabilityCommand.h",
+              "RelativeDocumentMoniker": "DeskManagement\\GetDeskAvailabilityCommand.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\GetDeskAvailabilityCommand.h",
+              "RelativeToolTip": "DeskManagement\\GetDeskAvailabilityCommand.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T15:18:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShowBookingCommand.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\ShowBookingCommand.h",
+              "RelativeDocumentMoniker": "DeskManagement\\ShowBookingCommand.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\ShowBookingCommand.h",
+              "RelativeToolTip": "DeskManagement\\ShowBookingCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T18:54:06.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CancelBookingCommand.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\CancelBookingCommand.h",
+              "RelativeDocumentMoniker": "DeskManagement\\CancelBookingCommand.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\CancelBookingCommand.h",
+              "RelativeToolTip": "DeskManagement\\CancelBookingCommand.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvw8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T15:03:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookDeskCommand.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\BookDeskCommand.h",
+              "RelativeDocumentMoniker": "DeskManagement\\BookDeskCommand.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\BookDeskCommand.h",
+              "RelativeToolTip": "DeskManagement\\BookDeskCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T14:50:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Helper.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Helper.h",
+              "RelativeDocumentMoniker": "DeskManagement\\Helper.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Helper.h",
+              "RelativeToolTip": "DeskManagement\\Helper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T19:08:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Helper.cpp",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Helper.cpp",
+              "RelativeDocumentMoniker": "DeskManagement\\Helper.cpp",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Helper.cpp",
+              "RelativeToolTip": "DeskManagement\\Helper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T19:09:01.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserType.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserType.h",
+              "RelativeDocumentMoniker": "DeskManagement\\UserType.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\UserType.h",
+              "RelativeToolTip": "DeskManagement\\UserType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T13:45:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Command.h",
+              "DocumentMoniker": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Command.h",
+              "RelativeDocumentMoniker": "DeskManagement\\Command.h",
+              "ToolTip": "C:\\Users\\eyashmin\\OneDrive - NVIDIA Corporation\\Desktop\\LLDproj\\DeskManagement Final\\DeskManagement\\DeskManagement\\Command.h",
+              "RelativeToolTip": "DeskManagement\\Command.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T07:06:01.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
